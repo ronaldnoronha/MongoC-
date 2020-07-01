@@ -177,6 +177,33 @@ Reader.cpp.s:
 	$(MAKE) -f CMakeFiles/MongoC__.dir/build.make CMakeFiles/MongoC__.dir/Reader.cpp.s
 .PHONY : Reader.cpp.s
 
+UploadManager.o: UploadManager.cpp.o
+
+.PHONY : UploadManager.o
+
+# target to build an object file
+UploadManager.cpp.o:
+	$(MAKE) -f CMakeFiles/MongoC__.dir/build.make CMakeFiles/MongoC__.dir/UploadManager.cpp.o
+.PHONY : UploadManager.cpp.o
+
+UploadManager.i: UploadManager.cpp.i
+
+.PHONY : UploadManager.i
+
+# target to preprocess a source file
+UploadManager.cpp.i:
+	$(MAKE) -f CMakeFiles/MongoC__.dir/build.make CMakeFiles/MongoC__.dir/UploadManager.cpp.i
+.PHONY : UploadManager.cpp.i
+
+UploadManager.s: UploadManager.cpp.s
+
+.PHONY : UploadManager.s
+
+# target to generate assembly for a file
+UploadManager.cpp.s:
+	$(MAKE) -f CMakeFiles/MongoC__.dir/build.make CMakeFiles/MongoC__.dir/UploadManager.cpp.s
+.PHONY : UploadManager.cpp.s
+
 Writer.o: Writer.cpp.o
 
 .PHONY : Writer.o
@@ -246,6 +273,9 @@ help:
 	@echo "... Reader.o"
 	@echo "... Reader.i"
 	@echo "... Reader.s"
+	@echo "... UploadManager.o"
+	@echo "... UploadManager.i"
+	@echo "... UploadManager.s"
 	@echo "... Writer.o"
 	@echo "... Writer.i"
 	@echo "... Writer.s"

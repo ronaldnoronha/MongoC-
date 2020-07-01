@@ -6,6 +6,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/ronnie/Desktop/C++/MongoC++/Connection.cpp" "/Users/ronnie/Desktop/C++/MongoC++/cmake-build-debug/CMakeFiles/MongoC__.dir/Connection.cpp.o"
   "/Users/ronnie/Desktop/C++/MongoC++/Reader.cpp" "/Users/ronnie/Desktop/C++/MongoC++/cmake-build-debug/CMakeFiles/MongoC__.dir/Reader.cpp.o"
+  "/Users/ronnie/Desktop/C++/MongoC++/UploadManager.cpp" "/Users/ronnie/Desktop/C++/MongoC++/cmake-build-debug/CMakeFiles/MongoC__.dir/UploadManager.cpp.o"
   "/Users/ronnie/Desktop/C++/MongoC++/Writer.cpp" "/Users/ronnie/Desktop/C++/MongoC++/cmake-build-debug/CMakeFiles/MongoC__.dir/Writer.cpp.o"
   "/Users/ronnie/Desktop/C++/MongoC++/main.cpp" "/Users/ronnie/Desktop/C++/MongoC++/cmake-build-debug/CMakeFiles/MongoC__.dir/main.cpp.o"
   )

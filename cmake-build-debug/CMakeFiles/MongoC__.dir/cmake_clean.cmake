@@ -3,6 +3,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/MongoC__.dir/Reader.cpp.o"
   "CMakeFiles/MongoC__.dir/Writer.cpp.o"
   "CMakeFiles/MongoC__.dir/Connection.cpp.o"
+  "CMakeFiles/MongoC__.dir/UploadManager.cpp.o"
   "MongoC__.pdb"
   "MongoC__"
 )

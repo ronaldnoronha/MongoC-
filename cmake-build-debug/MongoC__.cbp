@@ -92,6 +92,12 @@
 		<Unit filename="/Users/ronnie/Desktop/C++/MongoC++/Reader.h">
 			<Option target="MongoC__"/>
 		</Unit>
+		<Unit filename="/Users/ronnie/Desktop/C++/MongoC++/UploadManager.cpp">
+			<Option target="MongoC__"/>
+		</Unit>
+		<Unit filename="/Users/ronnie/Desktop/C++/MongoC++/UploadManager.h">
+			<Option target="MongoC__"/>
+		</Unit>
 		<Unit filename="/Users/ronnie/Desktop/C++/MongoC++/Writer.cpp">
 			<Option target="MongoC__"/>
 		</Unit>
